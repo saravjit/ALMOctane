@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2016-11-30 13:01:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>828dfdb57a454737b2570b08af9624e7</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2016-11-30 13:01:50</StartTime>
+    <Duration>8</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>78a94a062f824b879061f530c0b656d0</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Microsoft Internet Explorer (64-bit)</Name>
+        <Path>"C:\Program Files (x86)\Internet Explorer\iexplore.exe"</Path>
+        <Version />
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest1</Name>
+    <ToolName>HP Unified Functional Testing</ToolName>
+    <ToolVersion>12.50</ToolVersion>
+    <Description />
+    <StartTime>2016-11-30 13:01:49</StartTime>
+    <Duration>9</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>159ceb9091ba4c4ebdb0cc99da84af3f</IconKey>
+      <IsPlainTextNodeName>False</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>False</IsPlainTextStepInfo>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz</CpuInfo>
+      <NumberOfCores>2</NumberOfCores>
+      <TotalMemory>4096</TotalMemory>
+      <HostName>BTPVM698</HostName>
+      <OSInfo>Windows 8</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>GUITest1</ResultName>
+    <RunStartTime>2016-11-30 13:01:49</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HP Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>12.50</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
